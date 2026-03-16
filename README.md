@@ -1,3 +1,4 @@
+readme_template = '''
 # Predicting Online Shopper Purchase Behavior
 
 <!-- Replace with a short description of the project -->
