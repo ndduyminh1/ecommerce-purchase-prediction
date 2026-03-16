@@ -102,13 +102,12 @@ The model can be used to identify high-probability buyers in real time, allowing
 
 ## Tools Used
 
-- Python
-- Pandas
-- Scikit-learn
-- Seaborn
-- Matplotlib
-- Google Colab
+Python | Pandas | Scikit-Learn | Matplotlib | Seaborn | Gaussian Naive Bayes | Google Colab
 
 ---
 
-## Project Files
+*This project was completed as part of ISOM 835: Predictive Analytics at Suffolk University\'s
+Sawyer Business School.*
+'''
+
+print(readme_template)
