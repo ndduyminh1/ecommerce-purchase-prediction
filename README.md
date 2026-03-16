@@ -1,4 +1,3 @@
-readme_template = '''
 # Predicting Online Shopper Purchase Behavior
 
 <!-- Replace with a short description of the project -->
@@ -109,6 +108,3 @@ Python | Pandas | Scikit-Learn | Matplotlib | Seaborn | Gaussian Naive Bayes | G
 
 *This project was completed as part of ISOM 835: Predictive Analytics at Suffolk University\'s
 Sawyer Business School.*
-'''
-
-print(readme_template)
