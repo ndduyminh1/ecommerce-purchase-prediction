@@ -109,6 +109,4 @@ Python | Pandas | Scikit-Learn | Matplotlib | Seaborn | Gaussian Naive Bayes | G
 *This project was completed as part of ISOM 835: Predictive Analytics at Suffolk University\'s
 Sawyer Business School.*
 
-The model accurately identifies most non-purchasing sessions but misses some actual buyers, highlighting an opportunity to improve targeting of high-intent customers.
-
-<img width="518" height="393" alt="chart" src="https://github.com/user-attachments/assets/42512f0d-9576-4848-9f94-f383981de46d" />
+The model accurately identifies most non-purchasing sessions but misses some actual buyers, highlighting an opportunity to improve targeting of high-intent customers. <img width="518" height="393" alt="chart" src="https://github.com/user-attachments/assets/42512f0d-9576-4848-9f94-f383981de46d" />
